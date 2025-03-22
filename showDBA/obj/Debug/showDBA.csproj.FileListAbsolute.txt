@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\showDBA\bin\Debug\showDBA.exe.config
+C:\Users\Administrator\source\repos\showDBA\bin\Debug\showDBA.exe
+C:\Users\Administrator\source\repos\showDBA\bin\Debug\showDBA.pdb
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.Form1.resources
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.Properties.Resources.resources
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.exe
+C:\Users\Administrator\source\repos\showDBA\obj\Debug\showDBA.pdb

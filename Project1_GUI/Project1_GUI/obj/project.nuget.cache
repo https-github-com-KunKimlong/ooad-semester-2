@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylvhgijAQPI4Hix/Kb9BbLiegBEWS7TdI1kSwENz8So7hyQoggUdDHvpBaYjuDyWFfz4h2OJFIr7xZfcLD4hgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Project1_GUI\\Project1_GUI\\Project1_GUI.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.29\\microsoft.windows.sdk.net.ref.10.0.22621.29.nupkg.sha512"
+  ],
+  "logs": []
+}

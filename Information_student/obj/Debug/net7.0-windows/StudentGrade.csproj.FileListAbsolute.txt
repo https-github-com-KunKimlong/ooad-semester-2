@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Information_student\bin\Debug\net7.0-windows\StudentGrade.exe
+C:\Users\Administrator\source\repos\Information_student\bin\Debug\net7.0-windows\StudentGrade.deps.json
+C:\Users\Administrator\source\repos\Information_student\bin\Debug\net7.0-windows\StudentGrade.runtimeconfig.json
+C:\Users\Administrator\source\repos\Information_student\bin\Debug\net7.0-windows\StudentGrade.dll
+C:\Users\Administrator\source\repos\Information_student\bin\Debug\net7.0-windows\StudentGrade.pdb
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\Information_student.Form1.resources
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.dll
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\refint\StudentGrade.dll
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.pdb
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\StudentGrade.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Information_student\obj\Debug\net7.0-windows\ref\StudentGrade.dll

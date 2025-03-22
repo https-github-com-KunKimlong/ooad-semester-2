@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\Project1_GUI\x64\Debug\Ijwhost.dll
+C:\Users\Administrator\source\repos\Project1_GUI\x64\Debug\Project1_GUI.deps.json
+C:\Users\Administrator\source\repos\Project1_GUI\x64\Debug\Project1_GUI.runtimeconfig.json
+C:\Users\Administrator\source\repos\Project1_GUI\Project1_GUI\x64\Debug\Project1_GUI.genruntimeconfig.cache

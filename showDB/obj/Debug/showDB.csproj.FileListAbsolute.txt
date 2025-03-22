@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\showDB\bin\Debug\showDB.exe.config
+C:\Users\Administrator\source\repos\showDB\bin\Debug\showDB.exe
+C:\Users\Administrator\source\repos\showDB\bin\Debug\showDB.pdb
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.Form1.resources
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.Properties.Resources.resources
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.exe
+C:\Users\Administrator\source\repos\showDB\obj\Debug\showDB.pdb
